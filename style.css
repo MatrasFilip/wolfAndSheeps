@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(56, 54, 54);
+}
+
+#board
+{
+    border: solid 2px red;
+    height: 97vh;
+    width: 97vh;
+    margin: auto;
+}
+
+.field
+{
+    border: solid 1px grey;
+}
+
+#wilk
+{
+    width: 200px;
+}
+
+.owca
+{
+    width: 200px;
+}
